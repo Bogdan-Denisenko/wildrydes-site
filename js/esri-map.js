@@ -1,6 +1,6 @@
 /*global WildRydes _config*/
 
-var WildRydes = window.WildRydes || {};
+var WildRydes = window.WildRydesDB || {};
 WildRydes.map = WildRydes.map || {};
 
 (function esriMapScopeWrapper($) {
